@@ -1,4 +1,4 @@
-### Hello, world!
+### Hi there 👋
 
 I'm working as a Solutions Architect, and contributing open source as its developer/maintainer, for my cup of tea.
 
@@ -7,5 +7,15 @@ I'm working as a Solutions Architect, and contributing open source as its develo
 
 <hr>
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=simukappu&show_icons=true&count_private=true&line_height=40)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=simukappu)
+<a href="https://github.com/simukappu/github-readme-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=simukappu&theme=dark&show_icons=true&rank_icon=github">
+    <img height=180 align="center"  src="https://github-readme-stats.vercel.app/api?username=simukappu&show_icons=true&rank_icon=github">
+  </picture>
+</a>
+<a href="https://github.com/simukappu/convoychat">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=simukappu&theme=dark&layout=compact">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simukappu&layout=compact">
+  </picture>
+</a>
