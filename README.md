@@ -7,13 +7,13 @@ I'm working as a Solutions Architect, and contributing open source as its develo
 
 <hr>
 
-<a href="https://github.com/simukappu/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=simukappu&theme=dark&show_icons=true&rank_icon=github">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=simukappu&theme=dark&show_icons=true&rank_icon=github">
     <img height=180 align="center"  src="https://github-readme-stats.vercel.app/api?username=simukappu&show_icons=true&rank_icon=github">
   </picture>
 </a>
-<a href="https://github.com/simukappu/convoychat">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=simukappu&theme=dark&layout=compact">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=simukappu&theme=dark&layout=compact">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simukappu&layout=compact">
