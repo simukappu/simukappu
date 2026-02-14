@@ -7,11 +7,11 @@ I'm Solutions Architect, and contributing open source as its developer/maintaine
 
 <hr>
 
-<a href="https://www.star-history.com/#simukappu/activity_notification&simukappu/amazon-chime-sdk-rails&awslabs/aws-fluent-plugin-kinesis&type=date&legend=top-left">
+<a href="https://www.star-history.com/#simukappu/activity_notification&awslabs/aws-fluent-plugin-kinesis&simukappu/amazon-chime-sdk-rails&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=simukappu/activity_notification,simukappu/amazon-chime-sdk-rails,awslabs/aws-fluent-plugin-kinesis&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=simukappu/activity_notification,simukappu/amazon-chime-sdk-rails,awslabs/aws-fluent-plugin-kinesis&type=date&legend=top-left" />
-   <img height=200 align="center" alt="Star History Chart" src="https://api.star-history.com/svg?repos=simukappu/activity_notification,simukappu/amazon-chime-sdk-rails,awslabs/aws-fluent-plugin-kinesis&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=simukappu/activity_notification,awslabs/aws-fluent-plugin-kinesis,simukappu/amazon-chime-sdk-rails&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=simukappu/activity_notification,awslabs/aws-fluent-plugin-kinesis,simukappu/amazon-chime-sdk-rails&type=date&legend=top-left" />
+   <img height=200 align="center" alt="Star History Chart" src="https://api.star-history.com/svg?repos=simukappu/activity_notification,awslabs/aws-fluent-plugin-kinesis,simukappu/amazon-chime-sdk-rails&type=date&legend=top-left" />
  </picture>
 </a>
 
