@@ -19,10 +19,9 @@ I'm Software Engineer and Solutions Architect, contributing open source as its d
     <img height=140 align="center" src="https://github-readme-stats-simukappu.vercel.app/api/top-langs/?username=simukappu&layout=compact">
   </picture>
 </a>
-<a href="https://www.star-history.com/#simukappu/activity_notification&awslabs/aws-fluent-plugin-kinesis&simukappu/amazon-chime-sdk-rails&type=date&legend=top-left">
+<a href="https://api.star-history.com/svg?repos=simukappu/activity_notification,awslabs/aws-fluent-plugin-kinesis,simukappu/amazon-chime-sdk-rails&type=date&theme=dark&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=simukappu/activity_notification,awslabs/aws-fluent-plugin-kinesis,simukappu/amazon-chime-sdk-rails&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=simukappu/activity_notification,awslabs/aws-fluent-plugin-kinesis,simukappu/amazon-chime-sdk-rails&type=date&legend=top-left" />
-   <img height=140 align="center" alt="Star History Chart" src="https://api.star-history.com/svg?repos=simukappu/activity_notification,awslabs/aws-fluent-plugin-kinesis,simukappu/amazon-chime-sdk-rails&type=date&legend=top-left" />
+   <img height=140 align="center" src="https://api.star-history.com/svg?repos=simukappu/activity_notification,awslabs/aws-fluent-plugin-kinesis,simukappu/amazon-chime-sdk-rails&type=date&legend=top-left" />
  </picture>
 </a>
