@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I'm Software Engineer and Solutions Architect, contributing open source as its developer/maintainer for my cup of tea.
+I'm a Solutions Architect and Software Engineer with deep expertise in cloud architecture, distributed systems, large-scale data platforms, and AI including agentic systems. I contribute to open source as a developer and maintainer.
 
-  * I'm interested in cloud architecture, distributed systems, big data analytics and new AI technology.
-  * I'm also passionate about applying new computing technologies to solve real-world problems and create value for our society.
+* Author of [ActivityNotification](https://github.com/simukappu/activity_notification) — integrated user activity notifications for Ruby on Rails
+* Maintainer of [Fluent plugin for Amazon Kinesis](https://github.com/awslabs/aws-fluent-plugin-kinesis) — Fluentd output plugin for Amazon Kinesis
+* Author of [amazon-chime-sdk-rails](https://github.com/simukappu/amazon-chime-sdk-rails) — server-side Amazon Chime SDK for Rails
 
 <hr>
 
