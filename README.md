@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Solutions Architect and Software Engineer with deep expertise in cloud architecture, distributed systems, large-scale data platforms, and AI including agentic systems. I contribute to open source as a developer and maintainer.
+I'm a cloud architect, developer, and open source maintainer. Currently a Senior Manager and Principal Solutions Architect at AWS — still writing code with AI and maintaining OSS. Deep expertise in cloud architecture, distributed systems, large-scale data platforms, and AI including agentic systems.
 
 * Author of [ActivityNotification](https://github.com/simukappu/activity_notification) — integrated user activity notifications for Ruby on Rails
 * Maintainer of [Fluent plugin for Amazon Kinesis](https://github.com/awslabs/aws-fluent-plugin-kinesis) — Fluentd output plugin for Amazon Kinesis
