@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a cloud architect, developer, and open source author and maintainer. Currently a Senior Manager and Principal Solutions Architect at AWS, still writing code with AI and maintaining OSS. Deep expertise in cloud architecture, distributed systems, large-scale data platforms, and AI including agentic systems.
+I'm a cloud architect, developer, and open source author and maintainer. Currently a Senior Manager of Solutions Architecture at AWS, still writing code with AI and maintaining OSS. Deep expertise in cloud architecture, distributed systems, large-scale data platforms, and AI including agentic systems.
 
 * Author of [ActivityNotification](https://github.com/simukappu/activity_notification): integrated user activity notifications for Ruby on Rails
 * Author of [agentverify](https://github.com/simukappu/agentverify): pytest plugin for deterministic testing of AI agents
